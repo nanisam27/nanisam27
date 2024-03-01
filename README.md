@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Nani
-- 👀 I’m interested in sports,gaming,playing creating and musics
+- 👀 I’m interested in sports,gaming,playing creating and musics editing
 - 🌱 I’m currently learning ...devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me insta @nani_x_27
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: mani loves usha
 
 <!---
 nanisam27/nanisam27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
